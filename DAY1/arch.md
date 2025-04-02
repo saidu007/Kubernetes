@@ -1,8 +1,3 @@
-Here you go! Here's the full Kubernetes architecture explanation in **Markdown (.md)** format:
-
----
-
-```markdown
 # Kubernetes (K8s) Architecture - In Detail
 
 ## 🌐 Overview
@@ -89,7 +84,7 @@ If you run:
 
 ```bash
 kubectl apply -f pod.yaml
-```
+
 
 ### What Happens:
 

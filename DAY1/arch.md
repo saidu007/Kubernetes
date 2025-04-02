@@ -99,11 +99,10 @@ kubectl apply -f pod.yaml
 
 ## Architecture Diagram
 
-For a visual representation of the Kubernetes architecture, refer to the official diagram:
+For a visual representation of the Kubernetes architecture, refer to the official diagram below:
 
 ![Kubernetes Cluster Architecture](https://kubernetes.io/images/docs/kubernetes-cluster-architecture.svg)
 
-:contentReference[oaicite:26]{index=26}&#8203;:contentReference[oaicite:27]{index=27}
 
 
 ---
